@@ -1,0 +1,13 @@
+openapi: 3.0.1
+info:
+  version: 1.0.0
+  title: Stampede Server API Jobs
+  description: The Stampede Server api for accessing jobs
+paths:
+  /api/jobs:
+    summary: Get the list of jobs
+    get:
+      operationId: jobs
+      responses:
+        '200':
+          description: Received the list of jobs successfully
