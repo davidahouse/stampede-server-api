@@ -1,0 +1,8 @@
+summary: Get the list of active builds
+requestId: activeBuildsByRepo
+path: /api/activeBuilds
+query:
+  - name: owner
+    value: "{Owner}"
+  - name: repository
+    value: "{Repository}"

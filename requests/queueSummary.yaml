@@ -1,0 +1,3 @@
+summary: Get the queue summary
+requestId: queueSummary
+path: /api/queueSummary

@@ -1,0 +1,3 @@
+summary: Get the list of tasks and their config
+requestId: adminTasks
+path: /api/admin/tasks

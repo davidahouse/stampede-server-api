@@ -1,0 +1,3 @@
+summary: Get the status of the workers
+requestId: workerStatus
+path: /api/workerStatus

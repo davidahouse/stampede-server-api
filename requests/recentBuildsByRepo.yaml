@@ -1,0 +1,8 @@
+summary: Get the list of recent builds
+requestId: recentBuildsByRepo
+path: /api/recentBuilds
+query:
+  - name: owner
+    value: "{Owner}"
+  - name: repository
+    value: "{Repository}"

@@ -1,0 +1,6 @@
+summary: Get the details of a specific build
+requestId: buildDetails
+path: /api/buildDetails
+query:
+  - name: buildID
+    value: "{BuildID}"

@@ -1,0 +1,3 @@
+summary: Get the list of active builds
+requestId: activeBuilds
+path: /api/activeBuilds

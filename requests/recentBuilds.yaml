@@ -1,0 +1,3 @@
+summary: Get the list of recent builds
+requestId: recentBuilds
+path: /api/recentBuilds

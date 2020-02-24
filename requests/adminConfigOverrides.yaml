@@ -1,0 +1,3 @@
+summary: Get the list of config overrides
+requestId: adminConfigOverrides
+path: /api/admin/configOverrides

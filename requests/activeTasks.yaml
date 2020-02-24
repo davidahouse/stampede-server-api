@@ -1,0 +1,3 @@
+summary: Get the list of active tasks
+requestId: activeTasks
+path: /api/activeTasks

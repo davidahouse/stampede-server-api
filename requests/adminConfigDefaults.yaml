@@ -1,0 +1,3 @@
+summary: Get the list of config defaults
+requestId: adminConfigDefaults
+path: /api/admin/configDefaults

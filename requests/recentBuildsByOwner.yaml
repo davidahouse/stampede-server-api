@@ -1,0 +1,6 @@
+summary: Get the list of recent builds
+requestId: recentBuildsByOwner
+path: /api/recentBuilds
+query:
+  - name: owner
+    value: "{Owner}"
